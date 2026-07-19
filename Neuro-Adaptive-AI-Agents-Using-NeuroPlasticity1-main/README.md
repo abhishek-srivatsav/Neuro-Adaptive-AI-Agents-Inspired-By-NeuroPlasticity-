@@ -438,13 +438,13 @@ the project creates an adaptive, inclusive, and intelligent framework capable of
 
 ## 👨‍💻 Author
 
-**Shashi Madari**
+**Abhishek Srivatsav**
 
 Computer Science Engineering Student
 
-📧 Email: shashimadari44@gmail.com
+📧 Email: abhisheksrivatsav60@gmail.com
 
-🐙 GitHub: https://github.com/ShashiMadari
+🐙 GitHub: https://github.com/abhishek-srivatsav
 
 ---
 
