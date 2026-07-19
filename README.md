@@ -1,4 +1,5 @@
 🧠 Neuro-Adaptive Multi-Agent System
+
 📌 Project Overview
 The Neuro-Adaptive Multi-Agent System is an advanced AI framework inspired by human neuroplasticity. It simulates how humans adapt when one sensory capability is limited by introducing specialized AI agents that compensate for missing modalities.
 
